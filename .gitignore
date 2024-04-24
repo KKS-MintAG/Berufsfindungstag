@@ -462,3 +462,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+# Custom
+.idea/material_theme_project_new.xml
+.idea/workspace.xml
+.idea/csv-editor.xml
