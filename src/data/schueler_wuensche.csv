@@ -1,1 +1,150 @@
-verena,9d,V3,V2,V1,V7,V8joachim,9d,V9,V11,V12,V2,V10joachim,9f,V10,V4,V14,V8,V9frieda,9d,V1,V3,V7,V7,V8wilfried,9c,V14,V13,V11,V11,V12gerda,9a,V6,V6,V3,V2,V4ilse,9c,V13,V9,V3,V4,V14ilse,9e,V7,V2,V3,V5,V10hans,9a,V10,V2,V2,V9,V11otto,9c,V2,V5,V12,V6,V10otto,9d,V11,V2,V5,V8,V1carl,9c,V1,V13,V13,V11,V12leo,9e,V7,V4,V11,V11,V13susi,9b,V4,V14,V4,V13,V2joachim,9c,V14,V8,V13,V1,V4gerda,9f,V6,V7,V10,V8,V6wilfried,9e,V7,V14,V5,V1,V13joachim,9e,V9,V8,V11,V10,V10manfred,9b,V4,V2,V2,V12,V3klaus,9f,V3,V9,V2,V4,V2ilse,9c,V5,V8,V4,V8,V8leo,9f,V6,V3,V11,V7,V14dora,9c,V3,V10,V8,V10,V5carl,9d,V5,V10,V8,V2,V13uwe,9b,V4,V9,V11,V11,V5wilfried,9c,V14,V3,V5,V8,V13frieda,9a,V9,V8,V8,V8,V8otto,9a,V5,V8,V5,V13,V1wilfried,9c,V12,V9,V5,V9,V3otto,9a,V3,V3,V13,V5,V6manfred,9e,V1,V9,V2,V10,V3frieda,9c,V3,V12,V11,V11,V13uwe,9e,V5,V5,V11,V1,V6gerda,9b,V9,V3,V13,V8,V5hans,9d,V4,V6,V11,V6,V7dora,9e,V5,V12,V2,V4,V11joachim,9f,V1,V12,V14,V1,V9dora,9b,V14,V4,V10,V3,V4verena,9f,V13,V12,V3,V8,V14gerda,9e,V8,V6,V14,V5,V1uwe,9d,V7,V12,V8,V11,V4anton,9d,V12,V4,V1,V7,V4richard,9e,V6,V9,V6,V13,V4otto,9c,V9,V7,V7,V8,V9carl,9b,V11,V2,V1,V10,V6hans,9e,V11,V12,V11,V7,V11leo,9d,V2,V14,V7,V6,V7verena,9f,V9,V6,V9,V3,V4hans,9e,V7,V4,V8,V3,V12anton,9a,V3,V3,V2,V10,V2
+Carl leo,9f,V5,V15,V7,V16,V15
+Nina nina,9a,V19,V13,V2,V20,V4
+Anton paul,9c,V19,V18,V8,V4,V19
+Uwe hans,9e,V10,V7,V3,V6,V6
+Leo hans,9b,V5,V12,V18,V5,V19
+Otto susi,9d,V20,V16,V7,V9,V20
+Gerda richard,9e,V5,V19,V1,V12,V16
+Hans emil,9d,V16,V7,V1,V14,V11
+Uwe nina,9b,V8,V12,V20,V8,V13
+Theo manfred,9d,V4,V3,V16,V15,V11
+Hans otto,9a,V20,V11,V4,V3,V1
+Ilse dora,9f,V3,V17,V16,V12,V12
+Wilfried emil,9e,V10,V3,V9,V13,V4
+Frieda wilfried,9d,V19,V3,V12,V13,V18
+Joachim hans,9d,V11,V3,V14,V1,V5
+Leo susi,9c,V20,V17,V9,V16,V8
+Carl uwe,9a,V8,V19,V1,V20,V14
+Richard paul,9d,V1,V9,V2,V19,V11
+Verena ilse,9d,V13,V18,V14,V4,V3
+Bert manfred,9d,V8,V8,V5,V2,V14
+Ilse otto,9c,V9,V10,V11,V14,V7
+Richard manfred,9f,V1,V19,V5,V7,V1
+Leo nina,9f,V5,V1,V18,V7,V12
+Gerda frieda,9e,V19,V13,V1,V9,V13
+Susi leo,9b,V15,V6,V11,V16,V16
+Leo richard,9c,V15,V6,V6,V7,V4
+Wilfried leo,9c,V16,V18,V7,V14,V19
+Gerda uwe,9f,V7,V14,V5,V16,V8
+Emil wilfried,9d,V17,V1,V17,V8,V11
+Klaus uwe,9e,V17,V10,V8,V18,V15
+Verena emil,9f,V18,V13,V11,V1,V8
+Klaus otto,9e,V18,V2,V17,V7,V2
+Carl frieda,9e,V12,V17,V13,V10,V18
+Susi joachim,9d,V17,V4,V11,V19,V6
+Dora paul,9f,V10,V9,V17,V15,V9
+Emil susi,9f,V4,V7,V3,V18,V12
+Paul klaus,9a,V16,V12,V17,V10,V1
+Wilfried bert,9f,V15,V5,V12,V20,V7
+Anton susi,9f,V8,V13,V8,V8,V13
+Wilfried manfred,9a,V18,V20,V7,V19,V16
+Uwe dora,9c,V9,V13,V14,V19,V18
+Leo uwe,9b,V3,V6,V3,V15,V12
+Leo theo,9b,V19,V8,V11,V10,V19
+Leo paul,9b,V4,V19,V12,V12,V2
+Nina dora,9e,V20,V18,V20,V12,V6
+Joachim richard,9b,V16,V7,V10,V12,V1
+Frieda leo,9a,V3,V19,V14,V2,V9
+Carl gerda,9c,V12,V12,V6,V19,V10
+Otto wilfried,9a,V6,V11,V7,V3,V12
+Paul theo,9a,V18,V15,V1,V19,V10
+Paul hans,9b,V8,V2,V15,V11,V3
+Anton verena,9e,V6,V10,V3,V20,V10
+Bert uwe,9b,V4,V11,V14,V2,V10
+Joachim ilse,9f,V2,V15,V16,V4,V8
+Susi theo,9e,V4,V5,V14,V15,V14
+Verena joachim,9b,V6,V1,V16,V14,V13
+Theo hans,9d,V20,V3,V12,V13,V16
+Verena dora,9a,V2,V5,V5,V12,V18
+Susi otto,9b,V17,V7,V18,V4,V16
+Otto verena,9c,V16,V11,V2,V11,V16
+Leo joachim,9b,V17,V13,V2,V6,V18
+Anton bert,9d,V6,V5,V19,V13,V12
+Wilfried paul,9d,V1,V19,V13,V18,V15
+Ilse manfred,9e,V7,V19,V14,V14,V15
+Joachim paul,9d,V20,V14,V20,V20,V6
+Susi klaus,9e,V9,V7,V7,V2,V1
+Paul richard,9f,V12,V13,V18,V18,V20
+Joachim susi,9d,V9,V7,V5,V18,V10
+Anton joachim,9c,V15,V6,V13,V18,V15
+Emil emil,9d,V9,V6,V17,V14,V7
+Susi frieda,9a,V1,V2,V2,V4,V2
+Wilfried klaus,9a,V4,V18,V7,V14,V2
+Theo leo,9a,V1,V20,V6,V4,V11
+Wilfried richard,9e,V13,V14,V9,V18,V19
+Verena carl,9a,V12,V8,V19,V6,V6
+Leo theo,9e,V11,V19,V11,V8,V20
+Verena dora,9a,V19,V3,V12,V2,V2
+Frieda bert,9a,V12,V16,V10,V13,V4
+Verena leo,9e,V4,V12,V3,V17,V1
+Anton leo,9f,V5,V20,V17,V19,V3
+Bert carl,9c,V14,V2,V19,V3,V3
+Dora manfred,9f,V7,V9,V13,V6,V2
+Richard paul,9b,V12,V12,V7,V9,V9
+Richard susi,9d,V3,V18,V12,V20,V6
+Anton joachim,9a,V14,V1,V15,V1,V16
+Klaus klaus,9d,V13,V16,V12,V10,V1
+Dora richard,9b,V2,V20,V13,V6,V5
+Theo manfred,9b,V15,V11,V7,V4,V16
+Verena bert,9c,V10,V10,V6,V8,V6
+Uwe anton,9f,V3,V3,V8,V19,V12
+Bert hans,9c,V6,V20,V15,V13,V1
+Klaus theo,9d,V3,V8,V4,V20,V11
+Dora klaus,9e,V17,V16,V15,V10,V11
+Paul leo,9e,V10,V2,V6,V17,V3
+Bert theo,9a,V9,V10,V16,V15,V10
+Richard joachim,9c,V7,V13,V17,V17,V17
+Verena anton,9b,V1,V8,V5,V6,V1
+Ilse dora,9b,V15,V14,V14,V5,V16
+Verena susi,9d,V1,V10,V7,V16,V18
+Otto ilse,9b,V14,V13,V8,V5,V10
+Leo verena,9f,V11,V14,V5,V19,V10
+Ilse paul,9a,V14,V1,V4,V1,V20
+Klaus hans,9a,V1,V5,V10,V2,V6
+Leo klaus,9f,V12,V3,V8,V20,V1
+Anton otto,9d,V9,V1,V12,V12,V2
+Wilfried wilfried,9a,V11,V20,V8,V18,V16
+Carl paul,9c,V2,V14,V3,V13,V16
+Verena anton,9b,V14,V20,V6,V11,V5
+Gerda theo,9a,V2,V3,V14,V14,V8
+Gerda ilse,9b,V2,V12,V9,V4,V8
+Wilfried nina,9c,V8,V20,V16,V10,V15
+Leo dora,9a,V15,V13,V1,V16,V18
+Verena joachim,9c,V15,V11,V10,V11,V11
+Uwe otto,9a,V4,V18,V16,V17,V8
+Verena richard,9a,V7,V9,V13,V13,V1
+Joachim klaus,9f,V7,V15,V5,V11,V6
+Anton uwe,9e,V10,V5,V13,V5,V4
+Leo bert,9b,V14,V10,V8,V4,V16
+Wilfried paul,9c,V8,V3,V20,V17,V20
+Bert theo,9f,V1,V19,V15,V20,V3
+Susi klaus,9e,V11,V8,V2,V2,V8
+Bert dora,9e,V14,V1,V17,V18,V15
+Hans gerda,9d,V13,V10,V17,V10,V16
+Nina emil,9e,V11,V12,V15,V20,V12
+Otto klaus,9f,V12,V19,V2,V7,V1
+Joachim emil,9f,V4,V16,V8,V4,V10
+Uwe emil,9b,V18,V11,V13,V18,V13
+Theo frieda,9a,V16,V10,V7,V5,V16
+Theo dora,9c,V11,V10,V18,V20,V10
+Anton wilfried,9d,V19,V8,V2,V13,V12
+Dora ilse,9e,V4,V7,V17,V14,V20
+Dora leo,9d,V15,V6,V11,V15,V12
+Frieda uwe,9d,V8,V5,V14,V13,V16
+Gerda hans,9f,V2,V16,V18,V20,V3
+Ilse carl,9e,V12,V10,V18,V19,V1
+Anton verena,9a,V16,V18,V5,V11,V2
+Uwe gerda,9d,V1,V7,V8,V14,V20
+Paul anton,9b,V1,V18,V13,V20,V9
+Carl bert,9a,V8,V5,V12,V4,V15
+Ilse wilfried,9b,V8,V11,V2,V16,V8
+Uwe hans,9d,V18,V9,V9,V11,V16
+Bert leo,9b,V11,V7,V12,V15,V4
+Wilfried wilfried,9f,V7,V4,V7,V15,V16
+Gerda emil,9c,V13,V4,V6,V3,V10
+Gerda uwe,9d,V3,V13,V12,V2,V16
+Nina klaus,9a,V14,V6,V8,V15,V8
+Ilse joachim,9e,V20,V7,V12,V3,V7
+Otto klaus,9a,V18,V16,V11,V19,V18
+Leo joachim,9c,V5,V15,V1,V9,V19
+Uwe frieda,9b,V6,V20,V11,V9,V14

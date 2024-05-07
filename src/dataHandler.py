@@ -51,14 +51,17 @@ def loadStudentData():
     studentData = {}
     with open(studentDataCSVPath, newline='') as csvfile:
         reader = csv.reader(csvfile, delimiter=csv_delimiter)
+        index: int = 0
         for row in reader:
-            studentData[row[0]] = {}
-            studentData[row[0]]["CLASS"] = row[1]
-            studentData[row[0]]["WUENSCHE"] = [row[2], row[3], row[4], row[5], row[6]]
+            studentData[index] = {}
+            studentData[index]["NAME"] = row[0]
+            studentData[index]["CLASS"] = row[1]
+            studentData[index]["WUENSCHE"] = [row[2], row[3], row[4], row[5], row[6]]
+            index += 1
     return studentData
 
 
-def loadPresentationData():
+def loadPresentationData() -> dict:
     """
     Loads the students data from the csv file
     :return:
@@ -70,5 +73,5 @@ def loadPresentationData():
         for row in reader:
             studentData[row[0]] = {}
             studentData[row[0]]["MAX-ANZAHL"] = row[1]
-            studentData[row[0]]["WUENSCHE"] = [row[2], row[3], row[4], row[5], row[6]]
+            studentData[row[0]]["TIMES"] = row[2]
     return studentData

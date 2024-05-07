@@ -19,7 +19,7 @@ def gen_schueler_wuensche():
         filewriter = csv.writer(file, delimiter=dataHandler.csv_delimiter)
         for i in range(30 * 5):
             student = []
-            student.append(random.choice(first_names))
+            student.append(f"{random.choice(first_names)} {random.choice(first_names)}".capitalize())
             student.append(random.choice(classes))
             for a in range(5):
                 student.append(random.choice(wishes))
@@ -34,14 +34,19 @@ def gen_presentation():
             presentation = []
             presentation.append(f"V{i}")
             presentation.append(random.randint(1, 20))
-            # for
-            presentation.append(random.choice(["1-2", "2-3", "3-4"]))
+            hi = random.randint(1, 3)
+            if hi == 1:
+                presentation.append(135)
+            elif hi == 2:
+                presentation.append(35)
+            elif hi == 3:
+                presentation.append(3)
             filewriter.writerow(presentation)
     pass
 
 
 if __name__ == '__main__':
-    # gen_schueler_wuensche()
     if os.getcwd()[-3:] == "src":
         os.chdir(os.getcwd()[:-4])
+    gen_schueler_wuensche()
     gen_presentation()
